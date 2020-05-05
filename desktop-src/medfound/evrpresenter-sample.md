@@ -56,7 +56,7 @@ To use this sample in DirectShow:
 
 ## Downloading the Sample
 
-This sample is available in the [Windows classic samples github repository](https://github.com/Microsoft/Windows-classic-samples/tree/master/Samples/Win7Samples/multimedia/mediafoundation/AudioClip).
+This sample is available in the [Windows classic samples github repository](https://github.com/microsoft/Windows-classic-samples/tree/master/Samples/Win7Samples/multimedia/mediafoundation/evrpresenter).
 
 ## Related topics
 
